@@ -1,0 +1,13 @@
+WIDTH = 1000
+HEIGHT = 600
+
+FPS = 60
+
+TITLE = "Mario Python"
+
+# Colors
+SKY_BLUE = (100, 180, 255)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (220, 50, 50)
+GREEN = (50, 200, 50)
