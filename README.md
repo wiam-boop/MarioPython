@@ -141,3 +141,6 @@ assets/images/
 وPygame، مع فصل كل نظام في ملف مستقل ليسهل فهم الكود وتطويره.
 
 **Made with Python 🐍 + Pygame 🎮**
+## 🎬 فيديو المشروع
+
+[![شاهد الفيديو على YouTube](https://img.youtube.com/vi/VINyKoGrmOM/maxresdefault.jpg)](https://youtu.be/VINyKoGrmOM)
